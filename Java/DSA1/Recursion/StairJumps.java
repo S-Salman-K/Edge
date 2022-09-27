@@ -1,3 +1,5 @@
+package Recursion;
+
 public class StairJumps {
     static int countWays(int n) {
         if (n < 0)

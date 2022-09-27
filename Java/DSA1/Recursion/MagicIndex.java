@@ -1,3 +1,5 @@
+package Recursion;
+
 public class MagicIndex {
     static int getMagicIndex(int[] arr, int i){
         if(i==arr.length)
